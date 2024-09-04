@@ -12,7 +12,8 @@ Examples of supervised learning models are Linear regression, Neural networks, o
 
 Description automatically generated](blob:https://gdoc2md.com/d7ab0e2b-a8e0-4152-bf46-8651921f31c7)
 
- 
+ <img width="346" alt="image" src="https://github.com/user-attachments/assets/18d72030-ab99-4537-9a86-17dd262a383c">
+
 
  
 
@@ -20,13 +21,6 @@ Description automatically generated](blob:https://gdoc2md.com/d7ab0e2b-a8e0-4152
 
  
 
- 
-
- 
-
- 
-
- 
 
 Fig 1. Konstantina et al., 2015 An example of a supervised learning model, the tumors are represented with an X, and classified, wrongly labeled tumors are circled. This feedback system can also serve to correct the model for future predictions. 
 
